@@ -1,0 +1,12 @@
+﻿The Original iPad
+The iPad was the first popular mobile tablet of its kind. It was designed specifically for people who needed a mobile device that was larger than a smartphone, but smaller than a laptop.
+
+The iPad looks similar to other handheld tablet devices. It is approximately the size of a sheet of paper and weighs at around 500 grams. The touchscreen display is 9.7” high-resolution Retina IPS LCD display.
+
+The original iPad had Bluetooth 4 and WiFi 4 capabilities, but suprisingly had no camera. Apple added a camera to the iPad in 2011 with the release of the iPad 2. It only came in black, and had a best-case-scenario battery life of 10 hours. The storage options available for the iPad were 16GB, 32GB and 64GB, with optional 3G cellular connectivity.
+
+The iPad came with iPhone OS 3.3 and can be upgraded up to iOS 5.1.1 via iTunes on a PC or Mac or OTA from versions of iOS newer than 5.0.
+
+Document by Josh W (JoshAtticus(https://github.com/JoshAtticus))
+
+
